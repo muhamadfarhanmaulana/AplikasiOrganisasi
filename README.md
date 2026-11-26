@@ -81,7 +81,13 @@ CREATE TABLE IF NOT EXISTS anggota_organisasi (
 5. Jalankan `AplikasiOrganisasi.java` (klik **Run** di VS Code atau jalankan lewat terminal dengan *classpath* folder `bin` dan `lib`).
 
 ## Tangkapan Layar
-<img width="685" height="451" alt="Screenshot 2026-11-26 201752" src="https://github.com/user-attachments/assets/f9f34b46-1b87-4774-8ab2-f21fd411bf6c" />
+<img width="685" height="451" alt="Screenshot 2026-11-26 201752" src="https://github.com/user-attachments/assets/dda0a6b0-20a1-446d-ae0b-8a2830f5dde8" />
 
-<img width="386" height="272" alt="Tampilan" src="https://github.com/user-attachments/assets/815e6feb-c86d-4339-9362-4a96d0efe00f" />
+<img width="682" height="448" alt="Screenshot 2026-11-26 201849" src="https://github.com/user-attachments/assets/306c875d-c5d9-4339-9cf5-69e77913348b" />
+
+<img width="682" height="450" alt="Screenshot 2026-11-26 201911" src="https://github.com/user-attachments/assets/0fbc17eb-5efb-4436-8772-abee43fec068" />
+
+<img width="682" height="446" alt="Screenshot 2026-11-26 201921" src="https://github.com/user-attachments/assets/fbe944b3-ba49-4aa8-a4cc-ff9a55e7fa8d" />
+
+<img width="682" height="450" alt="Screenshot 2026-11-26 201957" src="https://github.com/user-attachments/assets/d99d0c70-a6ae-4616-9a3e-cd7e9a3c4cfb" />
 
